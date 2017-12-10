@@ -2,7 +2,7 @@ package com.yangxiutian.phone;
 /**
  * 每个电话按键的声音是由两个固定频率的声音波形混合成的（此知识源于互联网），电话按键对应的声音波形频率如下表：
  * <style>
- * td { text-align:center; border:2px solid #a1a1a1; background:#dddddd; width:10px; height:10px; border-radius:5%; -moz-border-radius:50%} 
+ * td { text-align:center; border:2px solid #a1a1a1; background:#dddddd; width:10px; height:10px; border-radius:5%; -moz-border-radius:5%} 
  * </style>
  * <table border="1">
  * 	<tr>
