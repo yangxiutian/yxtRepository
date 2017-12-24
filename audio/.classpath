@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/yangxiutian/example/AmplitudeConverter.java|com/yangxiutian/example/AudioConcat.java|com/yangxiutian/example/AudioConverter.java|com/yangxiutian/example/AudioLoop.java|com/yangxiutian/example/AudioPlayer.java|com/yangxiutian/example/AudioRecorder.java|com/yangxiutian/example/CddaPlayer.java|com/yangxiutian/example/CddaRipper.java|com/yangxiutian/example/CreateSilenceAudioFile.java|com/yangxiutian/example/DumpJSInfo.java|com/yangxiutian/example/MidiInDump.java|com/yangxiutian/example/MidiPlayer.java|com/yangxiutian/example/MidiRecorder.java|com/yangxiutian/example/MixingAudioInputStream.java|com/yangxiutian/example/Mp3Encoder.java|com/yangxiutian/example/OscillatorFile.java|com/yangxiutian/example/OscillatorFileAOS.java|com/yangxiutian/example/OscillatorPlayer.java|com/yangxiutian/example/RawAudioDataConverter.java|com/yangxiutian/example/SilenceSupressingAudioRecorder.java|com/yangxiutian/example/intnet1/AmplitudeConverter.java|com/yangxiutian/example/intnet1/AudioConcat.java|com/yangxiutian/example/intnet1/AudioConverter.java|com/yangxiutian/example/intnet1/AudioLoop.java|com/yangxiutian/example/intnet1/AudioPlayer.java|com/yangxiutian/example/intnet1/AudioRecorder.java|com/yangxiutian/example/intnet1/CddaPlayer.java|com/yangxiutian/example/intnet1/CddaRipper.java|com/yangxiutian/example/intnet1/CreateSilenceAudioFile.java|com/yangxiutian/example/intnet1/DumpJSInfo.java|com/yangxiutian/example/intnet1/MidiInDump.java|com/yangxiutian/example/intnet1/MidiPlayer.java|com/yangxiutian/example/intnet1/MidiRecorder.java|com/yangxiutian/example/intnet1/MixingAudioInputStream.java|com/yangxiutian/example/intnet1/Mp3Encoder.java|com/yangxiutian/example/intnet1/OscillatorFile.java|com/yangxiutian/example/intnet1/OscillatorFileAOS.java|com/yangxiutian/example/intnet1/OscillatorPlayer.java|com/yangxiutian/example/intnet1/RawAudioDataConverter.java|com/yangxiutian/example/intnet1/SilenceSupressingAudioRecorder.java|com/yangxiutian/example/intnet2/Test1.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jflac-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="lib/jl1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jmactritonusspi1.74.jar"/>
+	<classpathentry kind="lib" path="lib/jna.jar"/>
+	<classpathentry kind="lib" path="lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/jspeex0.9.7.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/kj_dsp1.1.jar" sourcepath="/YOYOPlayer/lib/libkjdsp-java_1.2.orig.zip"/>
+	<classpathentry kind="lib" path="lib/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="lib/vorbisspi1.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
